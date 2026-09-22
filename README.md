@@ -1,5 +1,3 @@
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/ejellana/ejellana/assets/154962309/768f788c-a880-4c0e-a223-a9b4ef0cddf5)
-
 <h1 align="center">Hi 👋, I'm Emmanuel Jacob C. Ellana</h1>
 <h3 align="center">CS Student · Data Science & Analytics · IT Business Analytics Intern</h3>
 
